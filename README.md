@@ -46,9 +46,7 @@
   
 [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,notion,photoshop,figma)](https://github.com/ItzAshOffcl/ItzAshOffcl)
 
-
 ---
-</br>
 
 <h3 align="left">Check out my repos:</h3>
 
