@@ -49,12 +49,21 @@
 
 ---
 </br>
-</br>
+
+<h3 align="left">Check out my repos:</h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itzashoffcl&repo=awesome-webdev-resources&theme=github_dark)](https://github.com/itzashoffcl/awesome-webdev-resources)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itzashoffcl&repo=orion-lofi&theme=github_dark)](https://github.com/itzashoffcl/orion-lofi)
+
+<h3 align="left">Stats:</h3>
 
 <div align="center">
 
+
 <a href="https://github.com/itzashoffcl"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itzashoffcl&theme=github_dark&show_icons=true&icon_color=4c8eda&line_height=28&rank_icon=github"></a>
 <a href="https://github.com/itzashoffcl"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzashoffcl&show_icons=true&locale=en&layout=donut&theme=github_dark"></a>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
